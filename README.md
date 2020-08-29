@@ -4,6 +4,12 @@
 
 `pip install wechatarticles`
 
+展示地址：
+
+<a href="https://data.wnma3mz.cn/" target="_blank">数据展示（完整指标）</a>
+
+<a href="https://data.wnma3mz.cn/demo.html" target="_blank">实时更新的最新文章链接</a>
+
 实现思路一:
 
 1. 从微信公众号平台获取微信公众所有文章的url
